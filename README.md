@@ -1,7 +1,7 @@
 # Which Indian Celebrity are you?
 
 ## Motivation
-The motivation behind building this project was to create a fun and interactive application that allows users to find out which Indian celebrity they resemble the most based on their facial features. Indian celebrities are widely recognized and admired, and many people are curious to know which celebrity they bear a resemblance to. This project aims to provide an entertaining and engaging experience for users by leveraging facial recognition and similarity matching techniques.
+The motivation behind building this project was to create a fun and interactive application that allows users to find out which Indian celebrity they resemble the most based on their facial features. Indian celebrities are widely recognized and admired, and I saw this fact being utilised in Facebook, where you have such kind of things going on to engage people. This project aims to provide an entertaining and engaging experience for users by leveraging facial recognition and similarity matching techniques. The dataset I used for training is available in [Kaggle's Bollywood celeb localized face dataset (extended)](https://www.kaggle.com/datasets/sroy93/bollywood-celeb-localized-face-dataset-extended)
 
 ## Problem Statement
 The project addresses the question of "Which Indian Celebrity are you?" by analyzing the facial features of a person and comparing them with the facial features of various Indian celebrities. By using advanced facial recognition algorithms and similarity metrics, the project determines the closest match and identifies the celebrity that the person resembles the most.
