@@ -27,12 +27,13 @@ The project offers several standout features that set it apart:
 3. The name of the celebrity and an image for comparison will be displayed.
 4. Users can enjoy discovering which Indian celebrity they resemble the most.
 
-## Future Enhancements
+## Possible Future Enhancements
 The project has tremendous potential for expansion and improvement. Some features that could be implemented in the future include:
+- Better Models: In future, I plan to experiment with different combinations of face detection algorithms and image feature extractors.
+    - Face Detection Packages: [Dlib](https://pypi.org/project/dlib/), [MTCNN(Multi-task Cascaded Convolutional Networks)](https://pypi.org/project/mtcnn/), [FaceNet-pytorch]( https://pypi.org/project/facenet-pytorch/)
+    - Image Feature Extraction Models: VGGFace, FaceNet, DeepFace
 - More Celebrities: Include more celebrities in the training set   
 - Dynamic Database: Updating the celebrity database regularly to include new celebrities and improve matching accuracy.
 - Multiple Celebrity Matches: Providing the top few celebrity matches with their respective similarity scores.
 - User Feedback: Allowing users to rate and provide feedback on the accuracy of the matches.
-
-Feel free to customize and enhance the README based on your project's specific details and requirements.
 
